@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Chetan Kumar, a passionate developer from Bengaluru. Welcome to my GitHub profile! 
+I'm Chetan Kumar, a passionate developer from Bengaluru. Welcome to my GitHub profile!
 
 🌱 I'm currently learning and building exciting projects in Blockchain.
 
