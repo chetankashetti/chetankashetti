@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**chetankashetti/chetankashetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chetan Kumar, a passionate developer from Bengaluru. Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+🌱 I'm currently learning and building exciting projects in Blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Here are some of my GitHub stats:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetankashetti&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetankashetti&layout=compact&theme=dracula)](https://github.com/chetankashetti/github-readme-stats)
+
+🛠️ I enjoy working with technologies like:
+
+- 💻 Golang
+- 🌐 MongoDB/Postgres
+- 📱 Blockchain infra
+
+📫 You can reach me at chetankashetty@gmail.com or connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/chetan-kashetty-0972317a/)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](https://twitter.com/chetankashetty)
+
+Let's collaborate and build amazing things together! 💪
+
+![Visitor Count](https://profile-counter.glitch.me/chetankashetti/count.svg)
