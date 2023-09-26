@@ -12,9 +12,9 @@ I'm Chetan Kumar, a passionate developer from Bengaluru. Welcome to my GitHub pr
 
 🛠️ I enjoy working with technologies like:
 
-- 💻 Golang
-- 🌐 MongoDB/Postgres
-- 📱 Blockchain infra
+- 💻 Blockchain infra
+- 🌐 Golang/typescript or any other language
+- 📱 MongoDB/Postgres
 
 📫 You can reach me at chetankashetty@gmail.com or connect with me on:
 
